@@ -6,9 +6,9 @@ metadata:
     purpose: config
     env: dev
 data:
-    COURSE: "Devops with AWS"
-    DURATION: "120HRS"
-    TRAINER: "Manohar"
+  COURSE: "Devops with AWS"
+  DURATION: "120HRS"
+  TRAINER: "Manohar"
 
 
 
